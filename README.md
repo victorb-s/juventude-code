@@ -7,7 +7,7 @@
 
   Levando como base essa problemática, desenvolvemos um projeto que visaria levar à comunidade mais visibilidade e informação, derrubando as fronteiras invisíveis que cercam a comunidade, assim, criaríamos uma rádio popular, que levaria aos moradores informações e dos moradores para fora da comunidade, uma ponte de acesso entre os grupos.
 
-  No projeto, fiquei responsável por auxiliar no desenvolvimento da proposta, criação de modelos e construção do site informativo, que está presente neste repositório.
+  No projeto, fiquei responsável por auxiliar no desenvolvimento da proposta, criação de modelos e construção do site informativo, que está presente neste repositório. Mais informações sobre o projeto estão disponíveis na leitura do site, além das redes sociais do projeto, presentes no site.
 </p>
 <br>
 
